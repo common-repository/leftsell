@@ -1,0 +1,1104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeftSell\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-04 08:51+0000\n"
+"PO-Revision-Date: 2020-11-04 09:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE_formal\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3"
+
+#. parent slug
+#. page title
+#: leftsell.php:102 leftsell.php:103 admin/page-private-market.php:22
+#: admin/page-private-market.php:224
+msgid "Private Market"
+msgstr "Privater Markt"
+
+#. parent slug
+#: leftsell.php:110
+msgid "LeftSell Options"
+msgstr "LeftSell Einstellungen"
+
+#. page title
+#: leftsell.php:111 admin/page-private-market.php:39
+msgid "Options"
+msgstr "Optionen"
+
+#. parent slug
+#: leftsell.php:118
+msgid "Take part of LeftSell"
+msgstr "Teilnehmen"
+
+#. page title
+#: leftsell.php:119 admin/page-com.php:15
+msgid "Communicate"
+msgstr "Kommunikation"
+
+#: leftsell.php:137
+msgid "403"
+msgstr "403"
+
+#: leftsell.php:140
+msgid "4032"
+msgstr "4032"
+
+#: leftsell.php:149
+msgid "404"
+msgstr "404"
+
+#: leftsell.php:150
+msgid "405"
+msgstr "405"
+
+#: leftsell.php:155
+msgid "406"
+msgstr "406"
+
+#: leftsell.php:156
+msgid "407"
+msgstr "407"
+
+#: leftsell.php:174
+msgid "506"
+msgstr "506"
+
+#: leftsell.php:175
+msgid "507"
+msgstr "507"
+
+#: leftsell.php:177
+msgid "508"
+msgstr "508"
+
+#: leftsell.php:307
+msgid "999"
+msgstr "999"
+
+#: admin/page-tools.php:33 admin/page-private-market.php:14
+msgid "No access"
+msgstr "Kein Zugriff"
+
+#: admin/page-tools.php:37
+msgid "Sell and let sell services and products professionally"
+msgstr ""
+"Verkaufe und lasse Produkte und Dienstleistungen professionell verkaufen"
+
+#: admin/page-tools.php:40
+msgid "Hacks"
+msgstr "Hacks"
+
+#: admin/page-tools.php:41
+msgid "SEO"
+msgstr "SEO"
+
+#: admin/page-tools.php:42
+msgid "Sitemaps"
+msgstr "Sitemaps"
+
+#: admin/page-tools.php:43
+msgid "Header"
+msgstr "Header"
+
+#: admin/page-tools.php:44
+msgid "Shop"
+msgstr "Shop"
+
+#: admin/page-tools.php:54
+msgid "Wordpress Admin"
+msgstr "Wordpress Admin"
+
+#: admin/page-tools.php:60
+msgid "Disable Wordpress Admin Messages"
+msgstr "Wordpress Admin Nachrichten abschalten"
+
+#: admin/page-tools.php:61
+msgid "Disable most notifications inside Wordpress Admin"
+msgstr ""
+"Die meisten Hinweise und Meldungen im Wordpress Admin Interface abschalten"
+
+#: admin/page-tools.php:67
+msgid "Disable Wordpress Admin Thank You"
+msgstr "Admin Fusszeile deaktivieren: Danke für Dein Vertrauen in Wordpress"
+
+#: admin/page-tools.php:68
+msgid "Remove Thank you for creating with..."
+msgstr "Den Text: Danke für Dein Vertrauen in Wordpress entfernen"
+
+#: admin/page-tools.php:72
+msgid "Security"
+msgstr "Sicherheit"
+
+#: admin/page-tools.php:76
+msgid "Disable Wordpress XML RPC"
+msgstr "WordPress XML RPC abschalten"
+
+#: admin/page-tools.php:77
+msgid "Normally you do not need XML RPC, it is a security risk"
+msgstr ""
+"Normalerweise braucht es kein XML RPC, es ist zu einem Sicherheitsproblem "
+"geworden"
+
+#: admin/page-tools.php:80
+msgid "Site functions"
+msgstr "Seiten Funktionen"
+
+#: admin/page-tools.php:84
+msgid "Disable Wordpress Shortlinks creation in Header"
+msgstr "Wordpress Shortlink Erstellung abschalten"
+
+#: admin/page-tools.php:85
+msgid "Might confuse search engines"
+msgstr "Kann Suchmaschinen irritieren"
+
+#: admin/page-tools.php:91
+msgid "Create own footer"
+msgstr "Erstelle deine eigene Fusszeile"
+
+#: admin/page-tools.php:92
+msgid "Uses a WordPress page called ~footer as content for your footer"
+msgstr "Verwende eine WordPress Seite mit Namen ~footer als Fusszeile"
+
+#: admin/page-tools.php:95
+msgid "Comment functions"
+msgstr "Kommentar Funktionen"
+
+#: admin/page-tools.php:99
+msgid "remove Author"
+msgstr "entferne Feld Name"
+
+#: admin/page-tools.php:100
+msgid "Remove author in standard WordPress Comment function"
+msgstr "Entferne das Feld Name in den Standard WordPress Funktionen"
+
+#: admin/page-tools.php:105
+msgid "remove E-Mail"
+msgstr "entferne E-Mail"
+
+#: admin/page-tools.php:106
+msgid "Remove email in standard WordPress Comment function"
+msgstr "Entferne das Feld E-Mail in der Kommentarfunktion"
+
+#: admin/page-tools.php:111
+msgid "remove Website"
+msgstr "entferne URL"
+
+#: admin/page-tools.php:112
+msgid "Remove website url in standard WordPress Comment function"
+msgstr "Entferne das Feld Website URL in der Kommentarfunktion"
+
+#: admin/page-tools.php:117
+msgid "remove Cookies"
+msgstr "entferne Cookies"
+
+#: admin/page-tools.php:118
+msgid ""
+"Remove Cookie option to store values in standard WordPress Comment function"
+msgstr ""
+"Entferne das Feld Cookies zum Speichern der eingegebenen Informationen in "
+"einem Cookie"
+
+#: admin/page-tools.php:128
+msgid "Google Metas"
+msgstr "Google Metas"
+
+#: admin/page-tools.php:135
+msgid "Add Own Page Titles"
+msgstr "Eigene Seitentitel"
+
+#: admin/page-tools.php:136
+msgid ""
+"Add meta titletag and exchange <title>. Edit for each post, page and product."
+msgstr ""
+"Fügt ein Feld für das Meta Tag <title> zu jedem Beitrag, jeder Seite und "
+"jedem Produkt hinzu."
+
+#: admin/page-tools.php:142
+msgid "Add Keyword Meta Tag"
+msgstr "Keyword Meta Tag"
+
+#: admin/page-tools.php:143
+msgid "Add meta tag keyword in header. Edit for each post, page and product."
+msgstr ""
+"Fügt ein Feld für das Meta Tag Keywords zu jedem Post, jeder Seite und jedem "
+"Produkt hinzu"
+
+#: admin/page-tools.php:149
+msgid "Add Description Meta Tag"
+msgstr "Meta Tag Description"
+
+#: admin/page-tools.php:150
+msgid ""
+"add meta tag description in header. Edit for each post, page and product."
+msgstr ""
+"Fügt ein Feld für das Meta Tag Description zu jedem Post, jeder Seite und "
+"jedem Produkt hinzu"
+
+#: admin/page-tools.php:154
+msgid "Google JSON"
+msgstr "Google JSON"
+
+#: admin/page-tools.php:159
+msgid "Create Google JSON Breadcrumbs"
+msgstr "Erstelle Google Breadcrumbs (Brotkrumen) als JSON"
+
+#: admin/page-tools.php:160
+msgid ""
+"Pages base: parent/child, Post base: category-tree, Product base: category-"
+"tree"
+msgstr ""
+"Basis für Seiten: Eltern/Kind, Basis für Beiträge: Kategorie, Basis für "
+"Produkte: Produktkategorie"
+
+#: admin/page-tools.php:162
+msgid "Open Graphs"
+msgstr "Open Graphs"
+
+#: admin/page-tools.php:168
+msgid "Add OG: Image"
+msgstr "OG:Image"
+
+#: admin/page-tools.php:169
+msgid "use featured image to header tag og:image"
+msgstr "Verwende das Beitragsbild im Header als og:image"
+
+#: admin/page-tools.php:175
+msgid "Add OG: Title"
+msgstr "OG:Title"
+
+#: admin/page-tools.php:176
+msgid "Put Title Tag to header tag og:title. Uses own Page title if available"
+msgstr ""
+"Verwende Title Tag zusätztlich als og:title. Verwendet eigenen Seitentitel, "
+"falls verfügbar"
+
+#: admin/page-tools.php:182
+msgid "Add OG: Type"
+msgstr "OG: Type"
+
+#: admin/page-tools.php:183
+msgid "determine type website / article and put it to header tag og:type"
+msgstr "Art der Webseite einstellen und im Header unter Tag og:type eintragen"
+
+#: admin/page-tools.php:189
+msgid "Add OG: URL"
+msgstr "OG: URL"
+
+#: admin/page-tools.php:190
+msgid "to header tag og:url"
+msgstr "im Header Tag og:url"
+
+#: admin/page-tools.php:205
+msgid "Create Google Sitemap on every save of page"
+msgstr "Erstelle die Google Sitemap bei jedem Speichern"
+
+#: admin/page-tools.php:207 admin/page-tools.php:222
+msgid "Algorithm from LeftSell"
+msgstr "Algorhythmus von LeftSell"
+
+#: admin/page-tools.php:214
+msgid "Create Sitemap now"
+msgstr "Jetzt Sitemap erstellen"
+
+#: admin/page-tools.php:220
+msgid "Create Google Merchant Center feed of products"
+msgstr "Erstelle Google Merchant Center Feed für Produkte"
+
+#: admin/page-tools.php:229
+msgid "Create Product Map now"
+msgstr "Jetzt Produktmap erstellen"
+
+#: admin/page-tools.php:248
+msgid "Add Product Type Service"
+msgstr "Erstelle Produkt Typ Dienstleistung"
+
+#: admin/page-tools.php:249
+msgid "Declare products as services"
+msgstr "Produkte als Dienstleistungen deklarieren"
+
+#: admin/page-tools.php:255
+msgid "Add WooCommerce Theme support"
+msgstr "Woocommerce Theme support"
+
+#: admin/page-tools.php:256
+msgid "Pretend your theme supports WooCommerce"
+msgstr "Kennzeichne dein Theme als von WooCommerce unterstützt"
+
+#: admin/page-tools.php:262
+msgid "Disable WooCommerce Store Alerts"
+msgstr "WooCommerce Warnungen abschalten"
+
+#: admin/page-tools.php:263
+msgid "Don't show WooCommerce Advertising"
+msgstr "WooCommerce Werbenachrichten abschalten"
+
+#: admin/page-tools.php:270
+msgid "Add gtin field for products"
+msgstr "Fügt ein Feld für GTIN bei Produkten hinzu"
+
+#: admin/page-tools.php:271
+msgid "Enable additional field for Global Trading Number"
+msgstr "Zusätzliches Feld für Globale Handelsnummer hinzufügen"
+
+#: admin/page-tools.php:276
+msgid "Add sku field for products"
+msgstr "SKU Feld"
+
+#: admin/page-tools.php:277
+msgid "Enable additional field for Stock keeping unit"
+msgstr "Zusätzliches Feld für Lagerbestandsnummer hinzufügen"
+
+#: admin/page-tools.php:282
+msgid "Add mpn field for products"
+msgstr "MPN Feld"
+
+#: admin/page-tools.php:283
+msgid "Enable additional field for Manufacturer Part Number"
+msgstr "Zusätzliches Feld für Herstellernummer hinzufügen"
+
+#: admin/page-tools.php:288
+msgid "Add brand field for products"
+msgstr "Fügt ein Feld für den Brand bei Produkten hinzu"
+
+#: admin/page-tools.php:289
+msgid "Enable additional field for Brand"
+msgstr "Zusätzliches Feld für Brand hinzufügen"
+
+#: admin/page-tools.php:293
+msgid "Add adult field for products"
+msgstr "Erwachseneninhalt"
+
+#: admin/page-tools.php:294
+msgid "Enable additional field for Adult Content Declaration"
+msgstr "Zusätzliches Feld für Erwachseneninhalt hinzufügen"
+
+#: admin/page-tools.php:299
+msgid "Add field for product item condition"
+msgstr "Fügt ein Feld für den Produktzustand hinzu"
+
+#: admin/page-tools.php:300
+msgid "Enable additional field for Item Condition"
+msgstr "Zusätzliches Feld für Produktzustand hinzufügen"
+
+#: admin/page-tools.php:305
+msgid "Frontend"
+msgstr "Frontend"
+
+#: admin/page-tools.php:311
+msgid "Remove Heading Description in Tab Description"
+msgstr "Entferne den Titel Beschreibung im Tab Beschreibung"
+
+#: admin/page-tools.php:312
+msgid "In the description tab of products, remove the title Description"
+msgstr ""
+"Auf der Produktseite, Tab Beschreibung: den Titel \"Beschreibung\" entfernen"
+
+#: admin/page-tools.php:317
+msgid "WooCommerce not found or activated"
+msgstr "Keine WooCommerce Installation gefunden"
+
+#: admin/page-tools.php:331
+msgid "Create Meta instructions for robots"
+msgstr "Erstelle Meta Anweisungen für Robots"
+
+#: admin/page-tools.php:332
+msgid "(like: NOODP, index, follow)"
+msgstr "(z.B. NOODP, index, follow)"
+
+#: admin/page-tools.php:340
+msgid "Add additional content inside header"
+msgstr "Zusätzlichen Inhalt im Header"
+
+#: admin/page-tools.php:341
+msgid "e.g. Google Analytics / Facebook Pixel etc."
+msgstr "z.B. für Google Analytics / Facebook Pixel etc."
+
+#: admin/page-tools.php:344 includes/ls_helper.php:141
+#: includes/ls_helper.php:143
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/page-private-market.php:19
+msgid "Initialize shop"
+msgstr "Shop initialisieren"
+
+#: admin/page-private-market.php:23
+msgid "Share services and products to your shops"
+msgstr "Produkte und Dienstleistungen mit den eigenen Shops teilen"
+
+#: admin/page-private-market.php:36
+msgid "Publish"
+msgstr "Teilen"
+
+#: admin/page-private-market.php:37
+msgid "On Market"
+msgstr "Im Markt"
+
+#: admin/page-private-market.php:38
+msgid "Shops"
+msgstr "Shops"
+
+#: admin/page-private-market.php:40
+msgid "Log"
+msgstr "Log"
+
+#: admin/page-private-market.php:48
+msgid "Private published Products and Services"
+msgstr "Privat geteilte Produkte und Dienste"
+
+#: admin/page-private-market.php:49
+msgid ""
+"Share your goods to all shops in your private market. Unsharing deletes the "
+"products on the other shop(s)."
+msgstr ""
+"Artikel des Shops im privaten Markt teilen. Das Aufheben des Teilens löscht "
+"das entsprechende Produkt in den anderen Shops"
+
+#: admin/page-private-market.php:60 includes/ls_helper.php:408
+msgid "Share"
+msgstr "Teilen"
+
+#: admin/page-private-market.php:61 includes/ls_helper.php:402
+msgid "Unshare"
+msgstr "Teilen beenden"
+
+#: admin/page-private-market.php:74 admin/page-private-market.php:115
+#: admin/page-private-market.php:209
+msgid "Your private market is currently disabled."
+msgstr "Der private Markt ist nicht eingeschalten."
+
+#: admin/page-private-market.php:76 admin/page-private-market.php:117
+#: admin/page-private-market.php:211
+msgid "You can switch in on in "
+msgstr "Einschalten in den "
+
+#: admin/page-private-market.php:78 admin/page-private-market.php:119
+#: admin/page-private-market.php:213
+msgid "settings."
+msgstr "Einstellungen"
+
+#: admin/page-private-market.php:87
+msgid "Products and Services in private market"
+msgstr "Produkte und Dienste im privaten Markt"
+
+#: admin/page-private-market.php:88
+msgid ""
+"Shared goods from your private market. Unsubscribe deletes the local product."
+" Import creates it as independent product. "
+msgstr ""
+"Im privaten Markt geteilte Produkte. Beim Lösen eines Abos wird das lokale "
+"Produkt gelöscht."
+
+#: admin/page-private-market.php:99 includes/ls_helper.php:360
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#: admin/page-private-market.php:100 includes/ls_products.php:50
+#: includes/ls_helper.php:348
+msgid "Unsubscribe"
+msgstr "Abo lösen"
+
+#: admin/page-private-market.php:101 includes/ls_helper.php:388
+msgid "Import"
+msgstr "Importieren"
+
+#: admin/page-private-market.php:102
+msgid "Delete imported"
+msgstr "Importierte löschen"
+
+#: admin/page-private-market.php:130
+msgid "Add new shop"
+msgstr "Neuen Shop hinzufügen"
+
+#: admin/page-private-market.php:131
+msgid ""
+"You can only add shops with the LeftSell plugin activated and where you are "
+"a WP admin. "
+msgstr ""
+"Es können nur Shops mit LeftSell Plugin hinzugefügt werden. Es braucht Admin-"
+"Rechte."
+
+#: admin/page-private-market.php:132
+msgid ""
+"Once you have sent your request, confirm the connection on the other side. "
+msgstr ""
+"Nach dem Abschicken der Anfrage, bitte auf der anderen Seite bestätigen."
+
+#: admin/page-private-market.php:133
+msgid ""
+"If adding a shop for which you do not have admin rights, you might get "
+"blocked for all markets."
+msgstr ""
+"Einen Shop hinzuzufügen, für den keine Rechte bestehen, kann den Markt "
+"blockieren."
+
+#: admin/page-private-market.php:135
+msgid "Enter base URL of your other WordPress shop: "
+msgstr "Die Shop Adresse (URL) eingeben:"
+
+#: admin/page-private-market.php:143
+msgid "Connected shops"
+msgstr "Verbundene Shops"
+
+#: admin/page-private-market.php:144
+msgid ""
+"Shops belonging to your private market: share to or subscribe from these "
+"sites."
+msgstr ""
+"Shops, die zu diesem privaten Markt gehören: Produkte teilen oder abonnieren."
+
+#: admin/page-private-market.php:145
+msgid "Each shop in your list has to be confirmed."
+msgstr "Jeder Shop in der Liste wurde bestätigt."
+
+#: admin/page-private-market.php:146
+msgid ""
+"Selling is done inside each shop, not on the publisher (except it is the "
+"publisher of an item)."
+msgstr ""
+"Der Verkauf findet in den Shops statt, nicht beim Veröffentlicher (ausser es "
+"ist der Veröffentlicher des Produkts)."
+
+#: admin/page-private-market.php:158
+msgid "Join requests to this shop"
+msgstr "Anfragen zum Verbinden zu diesem Shop"
+
+#: admin/page-private-market.php:169
+msgid "Accept"
+msgstr "Akzeptieren"
+
+#: admin/page-private-market.php:172
+msgid "Decline"
+msgstr "Ablehnen"
+
+#: admin/page-private-market.php:178 admin/page-private-market.php:201
+msgid "none"
+msgstr "keine"
+
+#: admin/page-private-market.php:184
+msgid "Your pending join requests"
+msgstr "Hängige Verbindungsanfragen"
+
+#: admin/page-private-market.php:195
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: admin/page-private-market.php:226
+msgid "Enable private market"
+msgstr "Privatmarkt aktivieren"
+
+#: admin/page-private-market.php:227
+msgid ""
+"Enable sharing products and services for known websites: start the private "
+"market."
+msgstr ""
+"Startet den privaten Markt zum Teilen und Abonnieren von Produkten und "
+"Dienstleistungen"
+
+#: admin/page-private-market.php:229
+msgid "Disabling it sets all subscribed products to disabled."
+msgstr ""
+"Abschalten des Marktes führt zur Löschung aller von anderen abonnierten "
+"Produkten."
+
+#: admin/page-private-market.php:234
+msgid "Text Modification"
+msgstr "Textänderung"
+
+#: admin/page-private-market.php:235
+msgid ""
+"Add option to remove links and text-formats for subscribed shops: submit "
+"clean text"
+msgstr ""
+"Fügt eine Option hinzu, den Text eines Produktes zu säubern, um in allen "
+"Shops brauchbaren Text zu veröffentlichen"
+
+#: admin/page-private-market.php:240
+msgid "Include Comments"
+msgstr "Inklusive Kommentare"
+
+#: admin/page-private-market.php:241
+msgid "Share comments and ratings of products"
+msgstr "Teile Kommentare und Bewertungen"
+
+#: admin/page-private-market.php:255
+msgid "Private Market Log"
+msgstr "Log des privaten Marktes"
+
+#: admin/page-private-market.php:258
+msgid "Clear"
+msgstr "Log löschen"
+
+#: admin/page-private-market.php:260
+msgid "Refresh"
+msgstr "Neu laden"
+
+#: admin/page-com.php:16
+msgid "Communicate with LeftSell Management and Development"
+msgstr "Kommunikation mit LeftSell Support und Entwicklung"
+
+#: admin/page-com.php:19
+msgid "News"
+msgstr "Neuigkeiten"
+
+#: admin/page-com.php:20 admin/page-com.php:66
+msgid "Report Bug"
+msgstr "Fehler melden"
+
+#: admin/page-com.php:21
+msgid "Request Feature"
+msgstr "Anfrage für einen Zusatz"
+
+#: admin/page-com.php:33
+msgid "Latest News"
+msgstr "Aktuelle Neuigkeiten"
+
+#: admin/page-com.php:40
+msgid "Waiting for server"
+msgstr "Warte auf Server"
+
+#: admin/page-com.php:54
+msgid "Bug reporting"
+msgstr "Bug melden"
+
+#: admin/page-com.php:59
+msgid ""
+"Report a bug. We are always aware of bugs and software changements. Please "
+"feel free to report bugs, so that we can improve our software for you."
+msgstr ""
+"Melde einen Fehler. Wir sind ständig dran, Fehler zu korrigieren und die "
+"Software anzupassen. Fühl dich frei, Fehler zu melden. Damit machen wir "
+"deine Seiten besser."
+
+#: admin/page-com.php:62
+msgid "Report a bug"
+msgstr "Fehler melden"
+
+#: admin/page-com.php:73
+msgid "Reported bugs"
+msgstr "Gemeldete Fehler"
+
+#: admin/page-com.php:95
+msgid "Request feature"
+msgstr "Anfrage für einen Zusatz"
+
+#: admin/page-com.php:100
+msgid "Request a feature: we will implement, what is possible."
+msgstr "Frage nach einem Zusatz: wir programmieren, was möglich ist"
+
+#: admin/page-com.php:103
+msgid "Request a feature"
+msgstr "Zusatz erfragen"
+
+#: admin/page-com.php:107
+msgid "Request"
+msgstr "Anfragen"
+
+#: admin/page-com.php:114
+msgid "Your requests"
+msgstr "Deine Anfrage"
+
+#: includes/ls_comments.php:362
+msgid "Informing about new comment failed."
+msgstr "Das Informieren über einen neuen Kommentar ist fehlgeschlagen."
+
+#: includes/ls_messages.php:316
+msgid "Nothing to transmit error 1081"
+msgstr "Nichts zu übermitteln - Fehler 1081"
+
+#: includes/ls_messages.php:334
+msgid "Bug successfully transmitted"
+msgstr "Bug erfolgreich übermittelt"
+
+#: includes/ls_messages.php:339
+msgid "Transmission error 548"
+msgstr "Übermittlungsfehler 548"
+
+#: includes/ls_messages.php:347
+msgid "Nothing to transmit error 550"
+msgstr "Nichts zu übermitteln gefunden, Fehler 550"
+
+#: includes/ls_messages.php:360
+msgid "Feature request successfully transmitted"
+msgstr "Zusatzanforderung erfolgreich übermittelt"
+
+#: includes/ls_messages.php:365
+msgid "Transmission error 551"
+msgstr "Übermittlungsfehler 551"
+
+#: includes/ls_tools.php:136
+msgid "Title Tag"
+msgstr "Title Tag"
+
+#: includes/ls_tools.php:137
+msgid "Should not be longer than 55 chars. Creates <meta titletag> in header."
+msgstr ""
+"Sollte nicht länger als 55 Zeichen sein. Erstellt das Titletag <meta "
+"titletag> im Header."
+
+#: includes/ls_tools.php:152
+msgid "Page description"
+msgstr "Seitenbeschreibung"
+
+#: includes/ls_tools.php:153
+msgid ""
+"Should not be longer than 156 chars. Creates <description> Tag in header."
+msgstr ""
+"Sollte nicht länger als 156 Zeichen sein. Erstellt das <description> Tag im "
+"Header."
+
+#: includes/ls_tools.php:171
+msgid "Keywords"
+msgstr "Keywords"
+
+#: includes/ls_tools.php:172
+msgid "Click for examples"
+msgstr "Klick für Beispiel"
+
+#: includes/ls_tools.php:174
+msgid ""
+"Write lowercase, just chars, no spaces. Separate by comma. Max. 8 words. "
+"Every keyword must appear in content or title. Creates <meta keyword> Tag in "
+"header. "
+msgstr ""
+"Schreibe in Kleinbuchstaben, nur Buchstaben, keine Leerschläge. Trenne mit "
+"Komma. Maximal 8 Wörter. Jedes Schlüsselwort muss im Inhalt oder im Titel "
+"vorkommen. Erstellt das Meta Tag <meta keyword> im Header."
+
+#: includes/ls_tools.php:600
+msgid "Book"
+msgstr "Buchen"
+
+#: includes/ls_tools.php:653
+msgid "LeftSell Product Fields"
+msgstr "LeftSell Produkt Felder"
+
+#: includes/ls_tools.php:663 includes/ls_helper.php:327
+msgid "Service"
+msgstr "Dienstleistung"
+
+#: includes/ls_tools.php:664
+msgid "Declare product as a service"
+msgstr "Produkt ist eine Dienstleistung"
+
+#: includes/ls_tools.php:696
+msgid "Brand"
+msgstr "Brand"
+
+#: includes/ls_tools.php:697
+msgid "Add the brand name"
+msgstr "Füg den Brand hinzu"
+
+#: includes/ls_tools.php:703
+msgid "GTIN"
+msgstr "GTIN"
+
+#: includes/ls_tools.php:704
+msgid "Add the Global Trading Number"
+msgstr "Global Handelsnummer"
+
+#: includes/ls_tools.php:710
+msgid "SKU"
+msgstr "SKU"
+
+#: includes/ls_tools.php:711
+msgid "Add the Stock Keeping Unit"
+msgstr "Stock Keeping Unig"
+
+#: includes/ls_tools.php:717
+msgid "MPN"
+msgstr "MPN"
+
+#: includes/ls_tools.php:718
+msgid "Add the Manufactor Part Number"
+msgstr "Herstellernummer"
+
+#: includes/ls_tools.php:724
+msgid "Adult Content"
+msgstr "Erwachseneninhalt"
+
+#: includes/ls_tools.php:725
+msgid "Declare content as only for adults"
+msgstr "Deklariere Inhalt nur für Erwachsene"
+
+#: includes/ls_tools.php:755
+msgid "Item Condition"
+msgstr "Zustand"
+
+#: includes/ls_tools.php:756
+msgid "Declare the condition of the item"
+msgstr "Deklariere den Zustand eines Produkts"
+
+#: includes/ls_tools.php:761
+msgid "new"
+msgstr "neu"
+
+#: includes/ls_tools.php:763
+msgid "refurbished"
+msgstr "wiederaufbereitet"
+
+#: includes/ls_tools.php:765
+msgid "used"
+msgstr "gebraucht"
+
+#: includes/ls_markets.php:56
+msgid "Successfully registered. Please reload page."
+msgstr "Erfolgreich eingetragen. Bitte neu laden."
+
+#: includes/ls_markets.php:62
+msgid "Blocked"
+msgstr "Geblockt"
+
+#: includes/ls_markets.php:403
+msgid "Market shop requests to join"
+msgstr "Market Shop möchte sich verbinden"
+
+#: includes/ls_markets.php:417
+msgid "New Market shop joined"
+msgstr "Neuer Markt Shop verbunden"
+
+#: includes/ls_markets.php:493 includes/ls_markets.php:497
+msgid "already requested - now removed"
+msgstr "bereits angefragt - nun entfernt"
+
+#: includes/ls_markets.php:507 includes/ls_markets.php:511
+msgid "already joined - now removed"
+msgstr "bereits verbunden - nun entfernt"
+
+#: includes/ls_markets.php:521
+msgid "server cannot verify shop"
+msgstr "Der Server kann den Shop nicht verifizieren"
+
+#: includes/ls_markets.php:524
+msgid "shop is blocked"
+msgstr "Der Shop ist geblockt."
+
+#: includes/ls_markets.php:527
+msgid "shop is not active"
+msgstr "Der Shop ist nicht aktiv"
+
+#: includes/ls_markets.php:549
+msgid ""
+"Problem with local shop: market communication failing. Please try again."
+msgstr ""
+"Problem mit lokalem Shp: die Verbindung zum Markt kann nicht hergestellt "
+"werden. Bitte später nochmals versuchen."
+
+#: includes/ls_markets.php:554
+msgid "Confirm connection"
+msgstr "Verbindung bestätigen"
+
+#: includes/ls_markets.php:569
+msgid "Join request successful. Please confirm on the other shop."
+msgstr "Anfrage erfolgreich. Bestätigung des anderen Shops hängig."
+
+#: includes/ls_markets.php:570 includes/ls_markets.php:572
+msgid "Reload"
+msgstr "Neu laden"
+
+#: includes/ls_markets.php:581
+msgid "deleted"
+msgstr "gelöscht"
+
+#: includes/ls_markets.php:618
+msgid "Market shop has accepted join request"
+msgstr "Markt Shop hat die Anfrage akzeptiert"
+
+#: includes/ls_markets.php:627
+msgid "Market shop has declined join request"
+msgstr "Markt Shop hat die Anfrage abgelehnt"
+
+#: includes/ls_products.php:44
+msgid "LeftSell Subscribed Product"
+msgstr "LeftSell abonniertes Produkt"
+
+#: includes/ls_products.php:46
+msgid ""
+"Every change to this product will be overwritten if the originator shop "
+"changes it."
+msgstr ""
+"Jede Änderung an diesem Produkt wird durch den Veröffentlicher wieder "
+"überschrieben."
+
+#: includes/ls_products.php:60
+msgid "LeftSell Imported Product"
+msgstr "LeftSell importiertes Produkt"
+
+#: includes/ls_products.php:62
+msgid ""
+"This product is imported. Changes are only stored locally and will not be "
+"overwritten."
+msgstr ""
+"Dieses Produkt ist importiert. Änderungen werden lokal gespeichert und nicht "
+"vom ursprünglichen Shop überschrieben."
+
+#: includes/ls_products.php:1297
+msgid "Product deleted"
+msgstr "Produkt gelöscht"
+
+#: includes/ls_products.php:1311
+msgid "Product shared"
+msgstr "Produkt geteilt"
+
+#: includes/ls_products.php:1350 includes/ls_products.php:1519
+msgid "Remote shop did not remove subscription for"
+msgstr "Abonnierender Shop hat das Abo nicht gelöst"
+
+#: includes/ls_products.php:1367
+msgid "Product unshared"
+msgstr "Produkt nicht mehr geteilt"
+
+#: includes/ls_products.php:1387
+msgid "Product got unshared by publisher and was deleted"
+msgstr ""
+"Das Produkt wurde vom Veröffentlicher nicht mehr geteilt und deshalb gelöscht"
+
+#: includes/ls_products.php:1424 includes/ls_products.php:1582
+msgid "Error getting product"
+msgstr "Fehler beim Abfragen des Produktes"
+
+#: includes/ls_products.php:1445
+msgid "Error saving product"
+msgstr "Fehler beim Speichern des Produkts"
+
+#: includes/ls_products.php:1451
+msgid "Subscribed product"
+msgstr "Abonniertes Produkt"
+
+#: includes/ls_products.php:1453
+msgid "subscribed"
+msgstr "abonniert"
+
+#: includes/ls_products.php:1455
+msgid "Error saving product fields"
+msgstr "Fehler beim Speichern von Produkt Feldern"
+
+#: includes/ls_products.php:1478
+msgid "Remote shop subscribed to product"
+msgstr "Externer Shop hat das Produkt abonniert"
+
+#: includes/ls_products.php:1507
+msgid "Error unsubscribing: product not found"
+msgstr "Fehler beim Lösen des Abos: Produkt nicht gefunden"
+
+#: includes/ls_products.php:1508
+msgid "Error unsubscribing: product not subscribed"
+msgstr "Fehler beim Lösen des Abos: Produkt ist nicht abonniert"
+
+#: includes/ls_products.php:1525
+msgid "Remote shop was successfully notified to remove subscription for"
+msgstr "Externer Shop wurde erfolgreich darüber informiert, das Abo zu lösen"
+
+#: includes/ls_products.php:1530
+msgid "Remote shop answered on remove subscription for"
+msgstr "Externer Shop antwortet auf die Anfrage des Lösens des Abos für"
+
+#: includes/ls_products.php:1536
+msgid "Deleting failed for product"
+msgstr "Löschen fehlgeschlagen für das Produkt"
+
+#: includes/ls_products.php:1538
+msgid "Error deleting product"
+msgstr "Fehler beim Löschen des Produkts"
+
+#: includes/ls_products.php:1541
+msgid "Subscribed product successfully deleted"
+msgstr "Abonniertes Produkt erfolgreich gelöscht"
+
+#: includes/ls_products.php:1543
+msgid "Deleted"
+msgstr "Gelöscht"
+
+#: includes/ls_products.php:1564
+msgid "Remote shop removed subscription for product"
+msgstr "Externer Shop hat das Abo gelöst für das Produkt"
+
+#: includes/ls_products.php:1580 includes/ls_products.php:1594
+msgid "Imported product"
+msgstr "Importiertes Produkt"
+
+#: includes/ls_products.php:1596
+msgid "imported"
+msgstr "importiert"
+
+#: includes/ls_products.php:1662
+msgid "Delivering product "
+msgstr "Liefere Produkt aus"
+
+#: includes/ls_products.php:1668
+msgid "Requesting shop is not in market"
+msgstr "Anfragender Shop ist nicht im privaten Markt"
+
+#: includes/ls_products.php:1673
+msgid "Market not enabled"
+msgstr "Privater Markt nicht aktiv"
+
+#: includes/ls_products.php:1740
+msgid "External product not idetified as product "
+msgstr "Externes Produkt wurde nicht als Produkt identifiziert"
+
+#: includes/ls_products.php:1754
+msgid "External product not completely readable "
+msgstr "Externes Produkt nicht vollständig lesbar"
+
+#: includes/ls_helper.php:18
+msgid "Sending product update to"
+msgstr "Schicke Produkt Update zu "
+
+#: includes/ls_helper.php:263 includes/ls_helper.php:623
+msgid "product"
+msgstr "Produkt"
+
+#: includes/ls_helper.php:264 includes/ls_helper.php:624
+msgid "products"
+msgstr "Produkte"
+
+#: includes/ls_helper.php:283 includes/ls_helper.php:302
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: includes/ls_helper.php:329
+msgid "Product"
+msgstr "Produkt"
+
+#: includes/ls_helper.php:351
+msgid "Undefined error 20501"
+msgstr "Unbekannter Fehler 20501"
+
+#: includes/ls_helper.php:379
+msgid "Delete"
+msgstr "Löschen"
+
+#: includes/ls_helper.php:659
+msgid "Remove"
+msgstr "Entfernen"
+
+#. Name of the plugin
+msgid "LeftSell"
+msgstr "LeftSell"
+
+#. Description of the plugin
+msgid ""
+"Webseiten und Shop Boost: Produkte und Dienstleistungen verteilt verkaufen "
+"und anbieten"
+msgstr ""
+"Webseiten und Web Shop Boost: Produkte und Dienstleistungen verteilt "
+"verkaufen und anbieten"
+
+#. URI of the plugin
+msgid "https://leftsell.com/"
+msgstr "https://leftsell.com/"
+
+#. Author of the plugin
+msgid "Kundschaft Schweiz"
+msgstr "Kundschaft Schweiz"
+
+#. Author URI of the plugin
+msgid "https://kundschaft.ch/"
+msgstr "https://kundschaft.ch/"

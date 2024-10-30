@@ -1,0 +1,1051 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LeftSell\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-04 08:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. parent slug
+#. page title
+#: leftsell.php:102 leftsell.php:103 admin/page-private-market.php:22
+#: admin/page-private-market.php:224
+msgid "Private Market"
+msgstr ""
+
+#. parent slug
+#: leftsell.php:110
+msgid "LeftSell Options"
+msgstr ""
+
+#. page title
+#: leftsell.php:111 admin/page-private-market.php:39
+msgid "Options"
+msgstr ""
+
+#. parent slug
+#: leftsell.php:118
+msgid "Take part of LeftSell"
+msgstr ""
+
+#. page title
+#: leftsell.php:119 admin/page-com.php:15
+msgid "Communicate"
+msgstr ""
+
+#: leftsell.php:137
+msgid "403"
+msgstr ""
+
+#: leftsell.php:140
+msgid "4032"
+msgstr ""
+
+#: leftsell.php:149
+msgid "404"
+msgstr ""
+
+#: leftsell.php:150
+msgid "405"
+msgstr ""
+
+#: leftsell.php:155
+msgid "406"
+msgstr ""
+
+#: leftsell.php:156
+msgid "407"
+msgstr ""
+
+#: leftsell.php:174
+msgid "506"
+msgstr ""
+
+#: leftsell.php:175
+msgid "507"
+msgstr ""
+
+#: leftsell.php:177
+msgid "508"
+msgstr ""
+
+#: leftsell.php:307
+msgid "999"
+msgstr ""
+
+#: admin/page-tools.php:33 admin/page-private-market.php:14
+msgid "No access"
+msgstr ""
+
+#: admin/page-tools.php:37
+msgid "Sell and let sell services and products professionally"
+msgstr ""
+
+#: admin/page-tools.php:40
+msgid "Hacks"
+msgstr ""
+
+#: admin/page-tools.php:41
+msgid "SEO"
+msgstr ""
+
+#: admin/page-tools.php:42
+msgid "Sitemaps"
+msgstr ""
+
+#: admin/page-tools.php:43
+msgid "Header"
+msgstr ""
+
+#: admin/page-tools.php:44
+msgid "Shop"
+msgstr ""
+
+#: admin/page-tools.php:54
+msgid "Wordpress Admin"
+msgstr ""
+
+#: admin/page-tools.php:60
+msgid "Disable Wordpress Admin Messages"
+msgstr ""
+
+#: admin/page-tools.php:61
+msgid "Disable most notifications inside Wordpress Admin"
+msgstr ""
+
+#: admin/page-tools.php:67
+msgid "Disable Wordpress Admin Thank You"
+msgstr ""
+
+#: admin/page-tools.php:68
+msgid "Remove Thank you for creating with..."
+msgstr ""
+
+#: admin/page-tools.php:72
+msgid "Security"
+msgstr ""
+
+#: admin/page-tools.php:76
+msgid "Disable Wordpress XML RPC"
+msgstr ""
+
+#: admin/page-tools.php:77
+msgid "Normally you do not need XML RPC, it is a security risk"
+msgstr ""
+
+#: admin/page-tools.php:80
+msgid "Site functions"
+msgstr ""
+
+#: admin/page-tools.php:84
+msgid "Disable Wordpress Shortlinks creation in Header"
+msgstr ""
+
+#: admin/page-tools.php:85
+msgid "Might confuse search engines"
+msgstr ""
+
+#: admin/page-tools.php:91
+msgid "Create own footer"
+msgstr ""
+
+#: admin/page-tools.php:92
+msgid "Uses a WordPress page called ~footer as content for your footer"
+msgstr ""
+
+#: admin/page-tools.php:95
+msgid "Comment functions"
+msgstr ""
+
+#: admin/page-tools.php:99
+msgid "remove Author"
+msgstr ""
+
+#: admin/page-tools.php:100
+msgid "Remove author in standard WordPress Comment function"
+msgstr ""
+
+#: admin/page-tools.php:105
+msgid "remove E-Mail"
+msgstr ""
+
+#: admin/page-tools.php:106
+msgid "Remove email in standard WordPress Comment function"
+msgstr ""
+
+#: admin/page-tools.php:111
+msgid "remove Website"
+msgstr ""
+
+#: admin/page-tools.php:112
+msgid "Remove website url in standard WordPress Comment function"
+msgstr ""
+
+#: admin/page-tools.php:117
+msgid "remove Cookies"
+msgstr ""
+
+#: admin/page-tools.php:118
+msgid ""
+"Remove Cookie option to store values in standard WordPress Comment function"
+msgstr ""
+
+#: admin/page-tools.php:128
+msgid "Google Metas"
+msgstr ""
+
+#: admin/page-tools.php:135
+msgid "Add Own Page Titles"
+msgstr ""
+
+#: admin/page-tools.php:136
+msgid ""
+"Add meta titletag and exchange <title>. Edit for each post, page and product."
+msgstr ""
+
+#: admin/page-tools.php:142
+msgid "Add Keyword Meta Tag"
+msgstr ""
+
+#: admin/page-tools.php:143
+msgid "Add meta tag keyword in header. Edit for each post, page and product."
+msgstr ""
+
+#: admin/page-tools.php:149
+msgid "Add Description Meta Tag"
+msgstr ""
+
+#: admin/page-tools.php:150
+msgid ""
+"add meta tag description in header. Edit for each post, page and product."
+msgstr ""
+
+#: admin/page-tools.php:154
+msgid "Google JSON"
+msgstr ""
+
+#: admin/page-tools.php:159
+msgid "Create Google JSON Breadcrumbs"
+msgstr ""
+
+#: admin/page-tools.php:160
+msgid ""
+"Pages base: parent/child, Post base: category-tree, Product base: category-"
+"tree"
+msgstr ""
+
+#: admin/page-tools.php:162
+msgid "Open Graphs"
+msgstr ""
+
+#: admin/page-tools.php:168
+msgid "Add OG: Image"
+msgstr ""
+
+#: admin/page-tools.php:169
+msgid "use featured image to header tag og:image"
+msgstr ""
+
+#: admin/page-tools.php:175
+msgid "Add OG: Title"
+msgstr ""
+
+#: admin/page-tools.php:176
+msgid "Put Title Tag to header tag og:title. Uses own Page title if available"
+msgstr ""
+
+#: admin/page-tools.php:182
+msgid "Add OG: Type"
+msgstr ""
+
+#: admin/page-tools.php:183
+msgid "determine type website / article and put it to header tag og:type"
+msgstr ""
+
+#: admin/page-tools.php:189
+msgid "Add OG: URL"
+msgstr ""
+
+#: admin/page-tools.php:190
+msgid "to header tag og:url"
+msgstr ""
+
+#: admin/page-tools.php:205
+msgid "Create Google Sitemap on every save of page"
+msgstr ""
+
+#: admin/page-tools.php:207 admin/page-tools.php:222
+msgid "Algorithm from LeftSell"
+msgstr ""
+
+#: admin/page-tools.php:214
+msgid "Create Sitemap now"
+msgstr ""
+
+#: admin/page-tools.php:220
+msgid "Create Google Merchant Center feed of products"
+msgstr ""
+
+#: admin/page-tools.php:229
+msgid "Create Product Map now"
+msgstr ""
+
+#: admin/page-tools.php:248
+msgid "Add Product Type Service"
+msgstr ""
+
+#: admin/page-tools.php:249
+msgid "Declare products as services"
+msgstr ""
+
+#: admin/page-tools.php:255
+msgid "Add WooCommerce Theme support"
+msgstr ""
+
+#: admin/page-tools.php:256
+msgid "Pretend your theme supports WooCommerce"
+msgstr ""
+
+#: admin/page-tools.php:262
+msgid "Disable WooCommerce Store Alerts"
+msgstr ""
+
+#: admin/page-tools.php:263
+msgid "Don't show WooCommerce Advertising"
+msgstr ""
+
+#: admin/page-tools.php:270
+msgid "Add gtin field for products"
+msgstr ""
+
+#: admin/page-tools.php:271
+msgid "Enable additional field for Global Trading Number"
+msgstr ""
+
+#: admin/page-tools.php:276
+msgid "Add sku field for products"
+msgstr ""
+
+#: admin/page-tools.php:277
+msgid "Enable additional field for Stock keeping unit"
+msgstr ""
+
+#: admin/page-tools.php:282
+msgid "Add mpn field for products"
+msgstr ""
+
+#: admin/page-tools.php:283
+msgid "Enable additional field for Manufacturer Part Number"
+msgstr ""
+
+#: admin/page-tools.php:288
+msgid "Add brand field for products"
+msgstr ""
+
+#: admin/page-tools.php:289
+msgid "Enable additional field for Brand"
+msgstr ""
+
+#: admin/page-tools.php:293
+msgid "Add adult field for products"
+msgstr ""
+
+#: admin/page-tools.php:294
+msgid "Enable additional field for Adult Content Declaration"
+msgstr ""
+
+#: admin/page-tools.php:299
+msgid "Add field for product item condition"
+msgstr ""
+
+#: admin/page-tools.php:300
+msgid "Enable additional field for Item Condition"
+msgstr ""
+
+#: admin/page-tools.php:305
+msgid "Frontend"
+msgstr ""
+
+#: admin/page-tools.php:311
+msgid "Remove Heading Description in Tab Description"
+msgstr ""
+
+#: admin/page-tools.php:312
+msgid "In the description tab of products, remove the title Description"
+msgstr ""
+
+#: admin/page-tools.php:317
+msgid "WooCommerce not found or activated"
+msgstr ""
+
+#: admin/page-tools.php:331
+msgid "Create Meta instructions for robots"
+msgstr ""
+
+#: admin/page-tools.php:332
+msgid "(like: NOODP, index, follow)"
+msgstr ""
+
+#: admin/page-tools.php:340
+msgid "Add additional content inside header"
+msgstr ""
+
+#: admin/page-tools.php:341
+msgid "e.g. Google Analytics / Facebook Pixel etc."
+msgstr ""
+
+#: admin/page-tools.php:344 includes/ls_helper.php:141
+#: includes/ls_helper.php:143
+msgid "Save"
+msgstr ""
+
+#: admin/page-private-market.php:19
+msgid "Initialize shop"
+msgstr ""
+
+#: admin/page-private-market.php:23
+msgid "Share services and products to your shops"
+msgstr ""
+
+#: admin/page-private-market.php:36
+msgid "Publish"
+msgstr ""
+
+#: admin/page-private-market.php:37
+msgid "On Market"
+msgstr ""
+
+#: admin/page-private-market.php:38
+msgid "Shops"
+msgstr ""
+
+#: admin/page-private-market.php:40
+msgid "Log"
+msgstr ""
+
+#: admin/page-private-market.php:48
+msgid "Private published Products and Services"
+msgstr ""
+
+#: admin/page-private-market.php:49
+msgid ""
+"Share your goods to all shops in your private market. Unsharing deletes the "
+"products on the other shop(s)."
+msgstr ""
+
+#: admin/page-private-market.php:60 includes/ls_helper.php:408
+msgid "Share"
+msgstr ""
+
+#: admin/page-private-market.php:61 includes/ls_helper.php:402
+msgid "Unshare"
+msgstr ""
+
+#: admin/page-private-market.php:74 admin/page-private-market.php:115
+#: admin/page-private-market.php:209
+msgid "Your private market is currently disabled."
+msgstr ""
+
+#: admin/page-private-market.php:76 admin/page-private-market.php:117
+#: admin/page-private-market.php:211
+msgid "You can switch in on in "
+msgstr ""
+
+#: admin/page-private-market.php:78 admin/page-private-market.php:119
+#: admin/page-private-market.php:213
+msgid "settings."
+msgstr ""
+
+#: admin/page-private-market.php:87
+msgid "Products and Services in private market"
+msgstr ""
+
+#: admin/page-private-market.php:88
+msgid ""
+"Shared goods from your private market. Unsubscribe deletes the local product."
+" Import creates it as independent product. "
+msgstr ""
+
+#: admin/page-private-market.php:99 includes/ls_helper.php:360
+msgid "Subscribe"
+msgstr ""
+
+#: admin/page-private-market.php:100 includes/ls_products.php:50
+#: includes/ls_helper.php:348
+msgid "Unsubscribe"
+msgstr ""
+
+#: admin/page-private-market.php:101 includes/ls_helper.php:388
+msgid "Import"
+msgstr ""
+
+#: admin/page-private-market.php:102
+msgid "Delete imported"
+msgstr ""
+
+#: admin/page-private-market.php:130
+msgid "Add new shop"
+msgstr ""
+
+#: admin/page-private-market.php:131
+msgid ""
+"You can only add shops with the LeftSell plugin activated and where you are "
+"a WP admin. "
+msgstr ""
+
+#: admin/page-private-market.php:132
+msgid ""
+"Once you have sent your request, confirm the connection on the other side. "
+msgstr ""
+
+#: admin/page-private-market.php:133
+msgid ""
+"If adding a shop for which you do not have admin rights, you might get "
+"blocked for all markets."
+msgstr ""
+
+#: admin/page-private-market.php:135
+msgid "Enter base URL of your other WordPress shop: "
+msgstr ""
+
+#: admin/page-private-market.php:143
+msgid "Connected shops"
+msgstr ""
+
+#: admin/page-private-market.php:144
+msgid ""
+"Shops belonging to your private market: share to or subscribe from these "
+"sites."
+msgstr ""
+
+#: admin/page-private-market.php:145
+msgid "Each shop in your list has to be confirmed."
+msgstr ""
+
+#: admin/page-private-market.php:146
+msgid ""
+"Selling is done inside each shop, not on the publisher (except it is the "
+"publisher of an item)."
+msgstr ""
+
+#: admin/page-private-market.php:158
+msgid "Join requests to this shop"
+msgstr ""
+
+#: admin/page-private-market.php:169
+msgid "Accept"
+msgstr ""
+
+#: admin/page-private-market.php:172
+msgid "Decline"
+msgstr ""
+
+#: admin/page-private-market.php:178 admin/page-private-market.php:201
+msgid "none"
+msgstr ""
+
+#: admin/page-private-market.php:184
+msgid "Your pending join requests"
+msgstr ""
+
+#: admin/page-private-market.php:195
+msgid "Cancel"
+msgstr ""
+
+#: admin/page-private-market.php:226
+msgid "Enable private market"
+msgstr ""
+
+#: admin/page-private-market.php:227
+msgid ""
+"Enable sharing products and services for known websites: start the private "
+"market."
+msgstr ""
+
+#: admin/page-private-market.php:229
+msgid "Disabling it sets all subscribed products to disabled."
+msgstr ""
+
+#: admin/page-private-market.php:234
+msgid "Text Modification"
+msgstr ""
+
+#: admin/page-private-market.php:235
+msgid ""
+"Add option to remove links and text-formats for subscribed shops: submit "
+"clean text"
+msgstr ""
+
+#: admin/page-private-market.php:240
+msgid "Include Comments"
+msgstr ""
+
+#: admin/page-private-market.php:241
+msgid "Share comments and ratings of products"
+msgstr ""
+
+#: admin/page-private-market.php:255
+msgid "Private Market Log"
+msgstr ""
+
+#: admin/page-private-market.php:258
+msgid "Clear"
+msgstr ""
+
+#: admin/page-private-market.php:260
+msgid "Refresh"
+msgstr ""
+
+#: admin/page-com.php:16
+msgid "Communicate with LeftSell Management and Development"
+msgstr ""
+
+#: admin/page-com.php:19
+msgid "News"
+msgstr ""
+
+#: admin/page-com.php:20 admin/page-com.php:66
+msgid "Report Bug"
+msgstr ""
+
+#: admin/page-com.php:21
+msgid "Request Feature"
+msgstr ""
+
+#: admin/page-com.php:33
+msgid "Latest News"
+msgstr ""
+
+#: admin/page-com.php:40
+msgid "Waiting for server"
+msgstr ""
+
+#: admin/page-com.php:54
+msgid "Bug reporting"
+msgstr ""
+
+#: admin/page-com.php:59
+msgid ""
+"Report a bug. We are always aware of bugs and software changements. Please "
+"feel free to report bugs, so that we can improve our software for you."
+msgstr ""
+
+#: admin/page-com.php:62
+msgid "Report a bug"
+msgstr ""
+
+#: admin/page-com.php:73
+msgid "Reported bugs"
+msgstr ""
+
+#: admin/page-com.php:95
+msgid "Request feature"
+msgstr ""
+
+#: admin/page-com.php:100
+msgid "Request a feature: we will implement, what is possible."
+msgstr ""
+
+#: admin/page-com.php:103
+msgid "Request a feature"
+msgstr ""
+
+#: admin/page-com.php:107
+msgid "Request"
+msgstr ""
+
+#: admin/page-com.php:114
+msgid "Your requests"
+msgstr ""
+
+#: includes/ls_comments.php:362
+msgid "Informing about new comment failed."
+msgstr ""
+
+#: includes/ls_messages.php:316
+msgid "Nothing to transmit error 1081"
+msgstr ""
+
+#: includes/ls_messages.php:334
+msgid "Bug successfully transmitted"
+msgstr ""
+
+#: includes/ls_messages.php:339
+msgid "Transmission error 548"
+msgstr ""
+
+#: includes/ls_messages.php:347
+msgid "Nothing to transmit error 550"
+msgstr ""
+
+#: includes/ls_messages.php:360
+msgid "Feature request successfully transmitted"
+msgstr ""
+
+#: includes/ls_messages.php:365
+msgid "Transmission error 551"
+msgstr ""
+
+#: includes/ls_tools.php:136
+msgid "Title Tag"
+msgstr ""
+
+#: includes/ls_tools.php:137
+msgid "Should not be longer than 55 chars. Creates <meta titletag> in header."
+msgstr ""
+
+#: includes/ls_tools.php:152
+msgid "Page description"
+msgstr ""
+
+#: includes/ls_tools.php:153
+msgid ""
+"Should not be longer than 156 chars. Creates <description> Tag in header."
+msgstr ""
+
+#: includes/ls_tools.php:171
+msgid "Keywords"
+msgstr ""
+
+#: includes/ls_tools.php:172
+msgid "Click for examples"
+msgstr ""
+
+#: includes/ls_tools.php:174
+msgid ""
+"Write lowercase, just chars, no spaces. Separate by comma. Max. 8 words. "
+"Every keyword must appear in content or title. Creates <meta keyword> Tag in "
+"header. "
+msgstr ""
+
+#: includes/ls_tools.php:600
+msgid "Book"
+msgstr ""
+
+#: includes/ls_tools.php:653
+msgid "LeftSell Product Fields"
+msgstr ""
+
+#: includes/ls_tools.php:663 includes/ls_helper.php:327
+msgid "Service"
+msgstr ""
+
+#: includes/ls_tools.php:664
+msgid "Declare product as a service"
+msgstr ""
+
+#: includes/ls_tools.php:696
+msgid "Brand"
+msgstr ""
+
+#: includes/ls_tools.php:697
+msgid "Add the brand name"
+msgstr ""
+
+#: includes/ls_tools.php:703
+msgid "GTIN"
+msgstr ""
+
+#: includes/ls_tools.php:704
+msgid "Add the Global Trading Number"
+msgstr ""
+
+#: includes/ls_tools.php:710
+msgid "SKU"
+msgstr ""
+
+#: includes/ls_tools.php:711
+msgid "Add the Stock Keeping Unit"
+msgstr ""
+
+#: includes/ls_tools.php:717
+msgid "MPN"
+msgstr ""
+
+#: includes/ls_tools.php:718
+msgid "Add the Manufactor Part Number"
+msgstr ""
+
+#: includes/ls_tools.php:724
+msgid "Adult Content"
+msgstr ""
+
+#: includes/ls_tools.php:725
+msgid "Declare content as only for adults"
+msgstr ""
+
+#: includes/ls_tools.php:755
+msgid "Item Condition"
+msgstr ""
+
+#: includes/ls_tools.php:756
+msgid "Declare the condition of the item"
+msgstr ""
+
+#: includes/ls_tools.php:761
+msgid "new"
+msgstr ""
+
+#: includes/ls_tools.php:763
+msgid "refurbished"
+msgstr ""
+
+#: includes/ls_tools.php:765
+msgid "used"
+msgstr ""
+
+#: includes/ls_markets.php:56
+msgid "Successfully registered. Please reload page."
+msgstr ""
+
+#: includes/ls_markets.php:62
+msgid "Blocked"
+msgstr ""
+
+#: includes/ls_markets.php:403
+msgid "Market shop requests to join"
+msgstr ""
+
+#: includes/ls_markets.php:417
+msgid "New Market shop joined"
+msgstr ""
+
+#: includes/ls_markets.php:493 includes/ls_markets.php:497
+msgid "already requested - now removed"
+msgstr ""
+
+#: includes/ls_markets.php:507 includes/ls_markets.php:511
+msgid "already joined - now removed"
+msgstr ""
+
+#: includes/ls_markets.php:521
+msgid "server cannot verify shop"
+msgstr ""
+
+#: includes/ls_markets.php:524
+msgid "shop is blocked"
+msgstr ""
+
+#: includes/ls_markets.php:527
+msgid "shop is not active"
+msgstr ""
+
+#: includes/ls_markets.php:549
+msgid ""
+"Problem with local shop: market communication failing. Please try again."
+msgstr ""
+
+#: includes/ls_markets.php:554
+msgid "Confirm connection"
+msgstr ""
+
+#: includes/ls_markets.php:569
+msgid "Join request successful. Please confirm on the other shop."
+msgstr ""
+
+#: includes/ls_markets.php:570 includes/ls_markets.php:572
+msgid "Reload"
+msgstr ""
+
+#: includes/ls_markets.php:581
+msgid "deleted"
+msgstr ""
+
+#: includes/ls_markets.php:618
+msgid "Market shop has accepted join request"
+msgstr ""
+
+#: includes/ls_markets.php:627
+msgid "Market shop has declined join request"
+msgstr ""
+
+#: includes/ls_products.php:44
+msgid "LeftSell Subscribed Product"
+msgstr ""
+
+#: includes/ls_products.php:46
+msgid ""
+"Every change to this product will be overwritten if the originator shop "
+"changes it."
+msgstr ""
+
+#: includes/ls_products.php:60
+msgid "LeftSell Imported Product"
+msgstr ""
+
+#: includes/ls_products.php:62
+msgid ""
+"This product is imported. Changes are only stored locally and will not be "
+"overwritten."
+msgstr ""
+
+#: includes/ls_products.php:1297
+msgid "Product deleted"
+msgstr ""
+
+#: includes/ls_products.php:1311
+msgid "Product shared"
+msgstr ""
+
+#: includes/ls_products.php:1350 includes/ls_products.php:1519
+msgid "Remote shop did not remove subscription for"
+msgstr ""
+
+#: includes/ls_products.php:1367
+msgid "Product unshared"
+msgstr ""
+
+#: includes/ls_products.php:1387
+msgid "Product got unshared by publisher and was deleted"
+msgstr ""
+
+#: includes/ls_products.php:1424 includes/ls_products.php:1582
+msgid "Error getting product"
+msgstr ""
+
+#: includes/ls_products.php:1445
+msgid "Error saving product"
+msgstr ""
+
+#: includes/ls_products.php:1451
+msgid "Subscribed product"
+msgstr ""
+
+#: includes/ls_products.php:1453
+msgid "subscribed"
+msgstr ""
+
+#: includes/ls_products.php:1455
+msgid "Error saving product fields"
+msgstr ""
+
+#: includes/ls_products.php:1478
+msgid "Remote shop subscribed to product"
+msgstr ""
+
+#: includes/ls_products.php:1507
+msgid "Error unsubscribing: product not found"
+msgstr ""
+
+#: includes/ls_products.php:1508
+msgid "Error unsubscribing: product not subscribed"
+msgstr ""
+
+#: includes/ls_products.php:1525
+msgid "Remote shop was successfully notified to remove subscription for"
+msgstr ""
+
+#: includes/ls_products.php:1530
+msgid "Remote shop answered on remove subscription for"
+msgstr ""
+
+#: includes/ls_products.php:1536
+msgid "Deleting failed for product"
+msgstr ""
+
+#: includes/ls_products.php:1538
+msgid "Error deleting product"
+msgstr ""
+
+#: includes/ls_products.php:1541
+msgid "Subscribed product successfully deleted"
+msgstr ""
+
+#: includes/ls_products.php:1543
+msgid "Deleted"
+msgstr ""
+
+#: includes/ls_products.php:1564
+msgid "Remote shop removed subscription for product"
+msgstr ""
+
+#: includes/ls_products.php:1580 includes/ls_products.php:1594
+msgid "Imported product"
+msgstr ""
+
+#: includes/ls_products.php:1596
+msgid "imported"
+msgstr ""
+
+#: includes/ls_products.php:1662
+msgid "Delivering product "
+msgstr ""
+
+#: includes/ls_products.php:1668
+msgid "Requesting shop is not in market"
+msgstr ""
+
+#: includes/ls_products.php:1673
+msgid "Market not enabled"
+msgstr ""
+
+#: includes/ls_products.php:1740
+msgid "External product not idetified as product "
+msgstr ""
+
+#: includes/ls_products.php:1754
+msgid "External product not completely readable "
+msgstr ""
+
+#: includes/ls_helper.php:18
+msgid "Sending product update to"
+msgstr ""
+
+#: includes/ls_helper.php:263 includes/ls_helper.php:623
+msgid "product"
+msgstr ""
+
+#: includes/ls_helper.php:264 includes/ls_helper.php:624
+msgid "products"
+msgstr ""
+
+#: includes/ls_helper.php:283 includes/ls_helper.php:302
+msgid "Edit"
+msgstr ""
+
+#: includes/ls_helper.php:329
+msgid "Product"
+msgstr ""
+
+#: includes/ls_helper.php:351
+msgid "Undefined error 20501"
+msgstr ""
+
+#: includes/ls_helper.php:379
+msgid "Delete"
+msgstr ""
+
+#: includes/ls_helper.php:659
+msgid "Remove"
+msgstr ""
+
+#. Name of the plugin
+msgid "LeftSell"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Webseiten und Shop Boost: Produkte und Dienstleistungen verteilt verkaufen "
+"und anbieten"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://leftsell.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kundschaft Schweiz"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://kundschaft.ch/"
+msgstr ""
